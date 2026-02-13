@@ -1,64 +1,56 @@
-🏠 UniStay
+🏠 UNISTAY
 
-A Smart Student Accommodation & Room Booking Platform
+### Smart Student Accommodation & Booking Platform
 
-📌 Overview
+---
 
-UniStay is a web-based platform designed to help students easily find, compare, and book accommodation near universities. It simplifies the process of discovering hostels, PGs, and rental rooms with an intuitive and minimal interface.
+## 📌 Overview
 
-The platform focuses on:
+**UniStay** is a web-based platform designed to help students easily discover, compare, and book accommodation near universities.
 
-Easy browsing
+It simplifies the process of finding hostels, PGs, and rental rooms through a clean, minimal, and user-friendly interface.
 
-Simple booking flow
+---
 
-Clean UI
+## 🚀 Features
 
-Local data handling
+* 🔍 Browse available rooms and accommodations
+* 🏘️ View detailed property information
+* 💰 Transparent pricing
+* 🛒 Simple booking / checkout flow
+* 💾 Local data storage for bookings
+* 📱 Fully responsive design
+* ⚡ Fast and minimal UI
 
-🚀 Features
+---
 
-🔍 Search & browse available rooms
+## 🛠️ Tech Stack
 
-🏘️ View detailed property information
+### Frontend
 
-💰 Price comparison
+* HTML5
+* CSS3
+* JavaScript
+* React (if used)
 
-🛒 Simple checkout/booking system
+### Backend (if applicable)
 
-💾 Local database storage for bookings
+* Node.js
+* Express.js
 
-📱 Responsive design
+### Database
 
-⚡ Fast and minimal UI
+* Local JSON / simple local database
 
-🛠️ Tech Stack
+### Version Control
 
-Frontend
+* Git & GitHub
 
-HTML5
+---
 
-CSS3
+## 📂 Project Structure
 
-JavaScript
-
-React (if used)
-
-Backend
-
-Node.js (if used)
-
-Express.js (if used)
-
-Database
-
-Local database / JSON storage
-
-Version Control
-
-Git & GitHub
-
-📂 Project Structure
+```
 UniStay/
 │
 ├── public/
@@ -66,68 +58,94 @@ UniStay/
 │   ├── components/
 │   ├── pages/
 │   ├── assets/
-│   └── utils/
+│   ├── utils/
+│   └── App.js
 │
 ├── package.json
 ├── README.md
 └── ...
-⚙️ Installation & Setup
-1️⃣ Clone the Repository
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```bash
 git clone https://github.com/Harih2007/UniStay.git
 cd UniStay
-2️⃣ Install Dependencies
+```
+
+### 2️⃣ Install Dependencies
+
+```bash
 npm install
-3️⃣ Run the Application
+```
+
+### 3️⃣ Run the Application
+
+```bash
 npm start
+```
 
-The app will run on:
+The application will run at:
 
+```
 http://localhost:3000
-🧠 How It Works
+```
 
-Users browse available accommodations.
+---
 
-They select a room/property.
+## 🧠 How It Works
 
-Add to booking/cart.
+1. Users browse available accommodations.
+2. Select a room/property.
+3. Add to booking/cart.
+4. Checkout confirms the booking.
+5. Booking data is stored locally.
 
-Checkout confirms the booking.
+---
 
-Data is stored locally (database/JSON).
+## 🔮 Future Improvements
 
-📸 Screenshots (Add Later)
+* 🔐 User authentication system
+* 💳 Payment gateway integration
+* 📍 Location-based filtering
+* 🏢 Admin dashboard
+* ☁ Cloud database integration
 
-You can add screenshots here:
+---
 
-![Home Page](screenshots/home.png)
-![Property Page](screenshots/property.png)
-![Checkout Page](screenshots/checkout.png)
-🎯 Future Improvements
-
-🔐 Authentication system
-
-💳 Payment gateway integration
-
-📍 Location-based filtering
-
-🏢 Admin dashboard
-
-🌐 Cloud database integration
-
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
-Fork the repository
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Push to your branch
+5. Open a Pull Request
 
-Create a new branch
+---
 
-Commit changes
-
-Push to branch
-
-Open a Pull Request
-
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Authors
+
+* **Hari Haran**
+* **Jatin Varma**
+* **Nitish K S**
+
+---
+
+If you want, I can also give you:
+
+* A more **startup-level professional README**
+* A **hackathon submission version**
+* Or a version optimized for **placement recruiters** 🚀
+
